@@ -1,0 +1,63 @@
+2020-10-14 16:56:30.396  INFO 9268 --- [restartedMain] com.inet.HcyApplication                  : Starting HcyApplication on DESKTOP-TSJVEJ5 with PID 9268 (D:\3. javaEE\lambda\spring-boot-lambda\target\classes started by Administrator in D:\3. javaEE\lambda\spring-boot-lambda)
+2020-10-14 16:56:30.398 DEBUG 9268 --- [restartedMain] com.inet.HcyApplication                  : Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-14 16:56:30.398  INFO 9268 --- [restartedMain] com.inet.HcyApplication                  : No active profile set, falling back to default profiles: default
+2020-10-14 16:56:31.863  INFO 9268 --- [restartedMain] com.inet.HcyApplication                  : Started HcyApplication in 1.719 seconds (JVM running for 2.215)
+2020-10-14 17:09:40.501  INFO 17404 --- [main] com.inet.HcyApplicationTests             : Starting HcyApplicationTests on DESKTOP-TSJVEJ5 with PID 17404 (started by Administrator in D:\3. javaEE\lambda\spring-boot-lambda)
+2020-10-14 17:09:40.501 DEBUG 17404 --- [main] com.inet.HcyApplicationTests             : Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-14 17:09:40.502  INFO 17404 --- [main] com.inet.HcyApplicationTests             : No active profile set, falling back to default profiles: default
+2020-10-14 17:09:42.136  INFO 17404 --- [main] com.inet.HcyApplicationTests             : Started HcyApplicationTests in 1.899 seconds (JVM running for 2.681)
+2020-10-14 17:09:42.676 DEBUG 17404 --- [main] c.i.c.mapper.UserMapper.selectList       : ==>  Preparing: SELECT user_id,user_address,user_habby,user_identity,user_name,user_birthday FROM tbl_user
+2020-10-14 17:09:42.693 DEBUG 17404 --- [main] c.i.c.mapper.UserMapper.selectList       : ==> Parameters: 
+2020-10-14 17:10:20.129  INFO 10352 --- [main] com.inet.HcyApplicationTests             : Starting HcyApplicationTests on DESKTOP-TSJVEJ5 with PID 10352 (started by Administrator in D:\3. javaEE\lambda\spring-boot-lambda)
+2020-10-14 17:10:20.130 DEBUG 10352 --- [main] com.inet.HcyApplicationTests             : Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-14 17:10:20.130  INFO 10352 --- [main] com.inet.HcyApplicationTests             : No active profile set, falling back to default profiles: default
+2020-10-14 17:10:21.810  INFO 10352 --- [main] com.inet.HcyApplicationTests             : Started HcyApplicationTests in 1.934 seconds (JVM running for 2.704)
+2020-10-14 17:10:22.441 DEBUG 10352 --- [main] c.i.c.mapper.UserMapper.selectList       : ==>  Preparing: SELECT user_id,user_address,user_habby,user_identity,user_name,user_birthday FROM tbl_user
+2020-10-14 17:10:22.459 DEBUG 10352 --- [main] c.i.c.mapper.UserMapper.selectList       : ==> Parameters: 
+2020-10-14 17:10:22.506 DEBUG 10352 --- [main] c.i.c.mapper.UserMapper.selectList       : <==      Total: 4
+2020-10-14 17:12:19.341  INFO 932 --- [main] com.inet.HcyApplicationTests             : Starting HcyApplicationTests on DESKTOP-TSJVEJ5 with PID 932 (started by Administrator in D:\3. javaEE\lambda\spring-boot-lambda)
+2020-10-14 17:12:19.341 DEBUG 932 --- [main] com.inet.HcyApplicationTests             : Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-14 17:12:19.342  INFO 932 --- [main] com.inet.HcyApplicationTests             : No active profile set, falling back to default profiles: default
+2020-10-14 17:12:20.894  INFO 932 --- [main] com.inet.HcyApplicationTests             : Started HcyApplicationTests in 1.816 seconds (JVM running for 2.585)
+2020-10-14 17:12:21.468 DEBUG 932 --- [main] c.i.c.mapper.UserMapper.selectList       : ==>  Preparing: SELECT user_id,user_address,user_habby,user_identity,user_name,user_birthday FROM tbl_user
+2020-10-14 17:12:21.486 DEBUG 932 --- [main] c.i.c.mapper.UserMapper.selectList       : ==> Parameters: 
+2020-10-14 17:12:21.527 DEBUG 932 --- [main] c.i.c.mapper.UserMapper.selectList       : <==      Total: 4
+2020-10-14 17:12:21.529 DEBUG 932 --- [main] c.i.c.mapper.UserMapper.selectList       : ==>  Preparing: SELECT user_id,user_address,user_habby,user_identity,user_name,user_birthday FROM tbl_user
+2020-10-14 17:12:21.530 DEBUG 932 --- [main] c.i.c.mapper.UserMapper.selectList       : ==> Parameters: 
+2020-10-14 17:12:21.553 DEBUG 932 --- [main] c.i.c.mapper.UserMapper.selectList       : <==      Total: 4
+2020-10-14 17:13:12.823  INFO 15056 --- [main] com.inet.HcyApplicationTests             : Starting HcyApplicationTests on DESKTOP-TSJVEJ5 with PID 15056 (started by Administrator in D:\3. javaEE\lambda\spring-boot-lambda)
+2020-10-14 17:13:12.824 DEBUG 15056 --- [main] com.inet.HcyApplicationTests             : Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-14 17:13:12.824  INFO 15056 --- [main] com.inet.HcyApplicationTests             : No active profile set, falling back to default profiles: default
+2020-10-14 17:13:14.338  INFO 15056 --- [main] com.inet.HcyApplicationTests             : Started HcyApplicationTests in 1.753 seconds (JVM running for 2.538)
+2020-10-14 17:13:14.907 DEBUG 15056 --- [main] c.i.c.mapper.UserMapper.selectList       : ==>  Preparing: SELECT user_id,user_address,user_habby,user_identity,user_name,user_birthday FROM tbl_user
+2020-10-14 17:13:14.927 DEBUG 15056 --- [main] c.i.c.mapper.UserMapper.selectList       : ==> Parameters: 
+2020-10-14 17:13:14.982 DEBUG 15056 --- [main] c.i.c.mapper.UserMapper.selectList       : <==      Total: 4
+2020-10-14 17:13:14.983 DEBUG 15056 --- [main] c.i.c.mapper.UserMapper.selectList       : ==>  Preparing: SELECT user_id,user_address,user_habby,user_identity,user_name,user_birthday FROM tbl_user
+2020-10-14 17:13:14.983 DEBUG 15056 --- [main] c.i.c.mapper.UserMapper.selectList       : ==> Parameters: 
+2020-10-14 17:13:15.008 DEBUG 15056 --- [main] c.i.c.mapper.UserMapper.selectList       : <==      Total: 4
+2020-10-14 17:15:10.874  INFO 1068 --- [main] com.inet.HcyApplicationTests             : Starting HcyApplicationTests on DESKTOP-TSJVEJ5 with PID 1068 (started by Administrator in D:\3. javaEE\lambda\spring-boot-lambda)
+2020-10-14 17:15:10.875 DEBUG 1068 --- [main] com.inet.HcyApplicationTests             : Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-14 17:15:10.875  INFO 1068 --- [main] com.inet.HcyApplicationTests             : No active profile set, falling back to default profiles: default
+2020-10-14 17:15:12.433  INFO 1068 --- [main] com.inet.HcyApplicationTests             : Started HcyApplicationTests in 1.797 seconds (JVM running for 2.554)
+2020-10-14 17:15:13.021 DEBUG 1068 --- [main] c.i.c.mapper.UserMapper.selectList       : ==>  Preparing: SELECT user_id,user_address,user_habby,user_identity,user_name,user_birthday FROM tbl_user
+2020-10-14 17:15:13.038 DEBUG 1068 --- [main] c.i.c.mapper.UserMapper.selectList       : ==> Parameters: 
+2020-10-14 17:15:13.085 DEBUG 1068 --- [main] c.i.c.mapper.UserMapper.selectList       : <==      Total: 4
+2020-10-14 17:15:13.087 DEBUG 1068 --- [main] c.i.c.mapper.UserMapper.selectList       : ==>  Preparing: SELECT user_id,user_address,user_habby,user_identity,user_name,user_birthday FROM tbl_user
+2020-10-14 17:15:13.087 DEBUG 1068 --- [main] c.i.c.mapper.UserMapper.selectList       : ==> Parameters: 
+2020-10-14 17:15:13.115 DEBUG 1068 --- [main] c.i.c.mapper.UserMapper.selectList       : <==      Total: 4
+2020-10-14 17:36:33.111  INFO 10196 --- [main] com.inet.HcyApplicationTest              : Starting HcyApplicationTest on DESKTOP-TSJVEJ5 with PID 10196 (started by Administrator in D:\3. javaEE\lambda\spring-boot-lambda)
+2020-10-14 17:36:33.112 DEBUG 10196 --- [main] com.inet.HcyApplicationTest              : Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-14 17:36:33.113  INFO 10196 --- [main] com.inet.HcyApplicationTest              : No active profile set, falling back to default profiles: default
+2020-10-14 17:36:34.723  INFO 10196 --- [main] com.inet.HcyApplicationTest              : Started HcyApplicationTest in 1.843 seconds (JVM running for 2.587)
+2020-10-14 17:37:10.705  INFO 828 --- [main] com.inet.HcyApplicationTest              : Starting HcyApplicationTest on DESKTOP-TSJVEJ5 with PID 828 (started by Administrator in D:\3. javaEE\lambda\spring-boot-lambda)
+2020-10-14 17:37:10.706 DEBUG 828 --- [main] com.inet.HcyApplicationTest              : Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-14 17:37:10.706  INFO 828 --- [main] com.inet.HcyApplicationTest              : No active profile set, falling back to default profiles: default
+2020-10-14 17:37:12.197  INFO 828 --- [main] com.inet.HcyApplicationTest              : Started HcyApplicationTest in 1.723 seconds (JVM running for 2.426)
+2020-10-14 17:37:24.448  INFO 6992 --- [main] com.inet.HcyApplicationTest              : Starting HcyApplicationTest on DESKTOP-TSJVEJ5 with PID 6992 (started by Administrator in D:\3. javaEE\lambda\spring-boot-lambda)
+2020-10-14 17:37:24.449 DEBUG 6992 --- [main] com.inet.HcyApplicationTest              : Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-14 17:37:24.449  INFO 6992 --- [main] com.inet.HcyApplicationTest              : No active profile set, falling back to default profiles: default
+2020-10-14 17:37:26.029  INFO 6992 --- [main] com.inet.HcyApplicationTest              : Started HcyApplicationTest in 1.816 seconds (JVM running for 2.541)
+2020-10-14 17:37:58.949  INFO 4420 --- [main] com.inet.HcyApplicationTest              : Starting HcyApplicationTest on DESKTOP-TSJVEJ5 with PID 4420 (started by Administrator in D:\3. javaEE\lambda\spring-boot-lambda)
+2020-10-14 17:37:58.950 DEBUG 4420 --- [main] com.inet.HcyApplicationTest              : Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-14 17:37:58.950  INFO 4420 --- [main] com.inet.HcyApplicationTest              : No active profile set, falling back to default profiles: default
+2020-10-14 17:38:00.489  INFO 4420 --- [main] com.inet.HcyApplicationTest              : Started HcyApplicationTest in 1.792 seconds (JVM running for 2.548)
